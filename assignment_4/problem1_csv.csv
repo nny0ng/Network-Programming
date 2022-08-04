@@ -1,0 +1,10 @@
+HTTP,Communication protocol used to transfer documents between a Web server and a user's Internet browser on the Internet
+Host,"The HTTP host header is a request header that specifies the domain to which a client wants to connect. This header is required because it is fairly common for servers to host websites and applications at the same IP address. They don't always know where to send the request, though."
+Port,A channel through which data can be exchanged between a modem and a computer
+Header,A group of characters at the beginning of the data used to identify or control the content and nature of the data that follows it
+HTML,It is a basic type of web language used to create web documents. It was developed to create hypertext.
+URL,All data that has access to resources supervised by one Internet server.
+Caching,It is a technology that enables rapid data transmission to netizens by storing content that is highly requested by users on a separate server and transmitting data.
+Cookies,Information that mediates between users and websites by leaving a visit record of an Internet website.
+Session,The term data communication refers to a logical coupling relationship between the data transmitting side and the receiving side.
+JSON,A format in which data objects are expressed in the form of pairs of attributes and values in order to exchange low-capacity data on the Web and computer programs.
